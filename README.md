@@ -2,8 +2,7 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Nikita)
 ### Applied informatics student
 - 🔭 I’m currently working on my personal projects.
-
-  <div id="badges">
+<div id="badges">
   <a href="https://vk.com/edselyoun89">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
