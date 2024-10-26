@@ -1,4 +1,4 @@
-![](https://github.com/edselyoun89/edselyoun89/blob/main/gojo-satoru-jujutsu-kaisen.gif) ![](https://github.com/edselyoun89/edselyoun89/blob/main/1111.gif) ![](https://github.com/edselyoun89/edselyoun89/blob/main/2222.gif)
+![](https://github.com/edselyoun89/edselyoun89/blob/main/1111.gif)
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Nikita)
